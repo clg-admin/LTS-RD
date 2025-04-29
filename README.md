@@ -1,4 +1,4 @@
-# Documentación de OSeMOSYS-ECU
+# Documentación de LTS-RD
 
 OSeMOSYS-ECU es un modelo de planificación de mediano y largo plazo para la cuantificación de emisiones desarrollado en estrecha colaboración con el **PNUD y la FAO** para apoyar la construcción de la Segunda Contribución Nacionalmente Determinada (NDC) de Ecuador.
 
@@ -29,4 +29,4 @@ La documentación está organizada en los siguientes apartados:
 10. [Guía de Navegación GitHub](https://github.com/clg-admin/ECU_NDC/blob/main/docs/guia.rst)
 11. [Licencia](https://github.com/clg-admin/ECU_NDC/blob/main/docs/license.rst)
 12. [Autores](https://github.com/clg-admin/ECU_NDC/blob/main/docs/authors.rst)
----
+---"# LTS-RD" 
