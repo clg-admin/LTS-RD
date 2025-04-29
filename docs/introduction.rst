@@ -2,47 +2,47 @@
 Introduction
 ====================================
 
-This documentation is based on the development process of Jamaica's Long-Term Emission Reduction and Climate Resilient Strategy (LTS), 
-led by the Ministry of Economic Growth and Job Creation in collaboration with the 2050 Pathways Platform. 
-The LTS sets Jamaica's pathway to net zero emissions and increased climate resilience by 2050. This project supports decision-making by 
-evaluating the costs and benefits of the LTS, addressing social, economic, and environmental impacts, and identifying key opportunities and
-challenges for its implementation.
+Esta documentación describe el modelo OSeMOSYS-RD, desarrollado en colaboración con el Programa de las
+Naciones Unidas para el Desarrollo (PNUD) y la Organización de las Naciones Unidas para la Alimentación y
+la Agricultura (FAO) para evaluar las emisiones de gases de efecto invernadero (GEI) en República Dominicana hacia el año 2050.
+
+El modelo permite:
+
+    - Evaluar las trayectorias de emisiones bajo diferentes escenarios.
+    - Comparar el escenario tendencial con una estrategia baja en carbono y resiliente.
+    - Desagregar resultados por sector, tipo de gas y año.
+    - El modelado se basa en OSeMOSYS, un marco de código abierto ampliamente utilizado para evaluar políticas de mitigación y planificación energética, y emplea la metodología de Toma de Decisión Robusta (RDM) para incorporar la incertidumbre en la construcción de escenarios.
 
 -------------------------------------
-Folder Structure
+Estructura de Archivos
 -------------------------------------
 
-To facilitate navigation, the documentation follows the following file structure:
+Para facilitar la navegación, la documentación sigue la siguiente estructura de archivos:
 
 .. code-block:: none
 
-    docs/
-    │── index.rst                  # Main index page
-    │── introduction.rst           # Introduction to the model
-    │── methodology.rst            # General methodology
-    │── national_results.rst       # National results overview
-    │── model_use.rst              # How to use the model
-    │── github_navigation.rst      # GitHub navigation guide
-    │── license.rst                # Licensing information
-    │── authors.rst                # Credits and authors
-    │
-    ├── 0_electricity_buildings/   # Electricity and Buildings sector
-    │   ├── 0_estructura.rst
-    │   ├── 1_entradas.rst
-    │   ├── 2_escenarios.rst
-    │   ├── 3_resultados.rst
-    │   ├── 4_referencias.rst
-    │
-    ├── 1_transport/               # Transport sector
-    ├── 2_industry/                # Industry sector
-    ├── 3_waste/                   # Waste sector
-    ├── 4_land_use_forestry_agriculture/  # Land-use change, forestry, and agriculture
-    ├── 5_food_security/           # Food Security sector
-    ├── 6_terrestrial_ecosystems/  # Terrestrial Ecosystems
-    ├── 7_human_settlements_infrastructure/  # Human Settlements and Critical Infrastructure
-    ├── 8_tourism/                 # Tourism sector
-    ├── 9_coastal_areas/           # Coastal Areas
-    ├── 10_culture_heritage/       # Culture and Heritage
-    ├── 11_population_health/      # Population and Health
+   docs/
+   │── index.rst                              # Página principal
+   │── introduccion.rst                       # Introducción
+   │   └── 1_estructura_archivos.rst          # Estructura de Archivos
+   │── metodologia.rst                        # Metodología general
+   │── resultados_nacionales.rst              # Resultados Nacionales
+   │── energia/                               # Sector Energía y Transporte
+   │   ├── 0_estructura.rst                   # Estructura del modelo
+   │   ├── 1_entradas.rst                     # Datos de entrada
+   │   ├── 2_escenarios.rst                   # Escenarios
+   │   ├── 3_resultados.rst                   # Resultados
+   │   └── 4_referencias.rst                  # Referencias
+   │── agricultura/                           # Agricultura, Silvicultura y Cambio de Uso de la Tierra (AFOLU)
+   │── procesos/                              # Procesos Industriales y Uso de Productos (PIUP)
+   │── residuos/                              # Sector Residuos
+   │── uso_modelo/                            # Uso del Modelo
+   │── github_navigation.rst                  # Navegación en GitHub
+   │── license.rst                            # Información sobre la licencia
+   │── authors.rst                            # Créditos y autores
+   │── source/                                # Carpeta de recursos
+   │   └── _static/
+   │       └── _images/                       # Imágenes utilizadas en la documentación
+
 
 

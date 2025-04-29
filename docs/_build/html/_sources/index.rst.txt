@@ -1,43 +1,46 @@
-.. JAM-LTS documentation master file, created by
+.. LTS-RD documentation master file, created by
    sphinx-quickstart on Wed Apr 23 13:20:52 2025.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
 ===================================================
-JAM-LTS Documentation
+Documentación de LTS-RD
 ===================================================
 
-The 2050 Long-term Emission Reduction and Climate Resilient Strategy (LTS) outlines Jamaica’s pathway to a low-carbon,
-resilient economy by 2050, in alignment with the Paris Agreement. This strategy was developed through detailed modeling
-of mitigation and adaptation actions. The project focuses on assessing the costs and benefits of the LTS to support informed
-decision-making and ensure alignment with national development priorities.
+OSeMOSYS-RD es un modelo de planificación de mediano y largo plazo para la cuantificación de emisiones,
+desarrollado para apoyar la construcción de la Estrategia a Largo Plazo (ELP) de República Dominicana
+hacia un desarrollo resiliente y bajo en emisiones al 2050.
+
+El modelo se basa en OSeMOSYS, un marco de código abierto ampliamente utilizado para evaluar
+políticas de mitigación y estrategias de planificación energética. La construcción de escenarios
+se realizó aplicando la metodología de Toma de Decisión Robusta (RDM), que permite explorar múltiples
+futuros bajo condiciones de incertidumbre profunda.
+
+Este documento cubre la modelización de cinco sectores clave:
+    - Energía
+    - Transporte
+    - Procesos industriales y uso de productos (PIUP)
+    - Residuos
+    - Agricultura, silvicultura y cambio de uso de la tierra (AFOLU)
 
 
 ==================================
-Documentation Structure
+Estructura de la Documentación
 ==================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Documentation Structure
+   :caption: Estructura de la Documentación
    :numbered:
 
-   Introduction <introduction>
-   Methodology <methodology>
-   National Results <national_results>
-   Electricity and Buildings <0_electricity_buildings/index>
-   Transport <1_transport/index>
-   Industry <2_industry/index>
-   Waste <3_waste/index>
-   Land-use Change, Forestry and Agriculture <4_land_use_forestry_agriculture/index>
-   Food Security <5_food_security/index>
-   Terrestrial Ecosystems <6_terrestrial_ecosystems/index>
-   Human Settlements and Critical Infrastructure <7_human_settlements_infrastructure/index>
-   Tourism <8_tourism/index>
-   Coastal Areas <9_coastal_areas/index>
-   Culture and Heritage <10_culture_heritage/index>
-   Population and Health <11_population_health/index>
-   Model Use <model_use>
-   GitHub Navigation <github_navigation>
-   License <license>
-   Authors <authors>
+   Introducción <introduction>
+   Metodología <methodology>
+   Resultados Nacionales <national_results>
+   Energía y Transporte <0_electricity_transport/index>
+   Agricultura, Silvicultura y Cambio de Uso de la Tierra (AFOLU)  <1_afolu/index>
+   Procesos Industriales y Uso de Productos (PIUP)  <2_piup/index>
+   Residuos  <3_waste/index>
+   Uso del Modelo <model_use>
+   Navegación en GitHub <github_navigation>
+   Licencia <license>
+   Autores <authors>
