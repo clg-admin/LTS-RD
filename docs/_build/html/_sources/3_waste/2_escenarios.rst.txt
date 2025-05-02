@@ -3,60 +3,40 @@ Escenarios
 ---------------------
 
 
-Para describir la evolución de largo plazo del sistema **energético** y del
-**transporte** se plantean dos proyecciones contrastantes:
+El escenario de la Estrategia contempla medidas a mediano y largo plazo para transformar la gestión de residuos sólidos y aguas residuales
+en República Dominicana. A 2033, se consideran las principales acciones propuestas en el proceso de formulación del Plan Nacional de Gestión Integral
+de Residuos Sólidos, que incluyen reducción en la generación, valorización de residuos y cierre de vertederos a cielo abierto. Para 2050, estas medidas
+se fortalecen, incorporando la expansión del coprocesamiento y la recuperación de metano en rellenos sanitarios existentes y planificados (GIZ, 2018b).
 
-* **Escenario Tendencial** – prolonga las pautas históricas y los compromisos ya
-  vigentes.
-* **Escenario LTS (o Estrategia)** – introduce transformaciones profundas
-  orientadas a la descarbonización y la modernización tecnológica con horizonte
-  2050.
-
+En el caso de las aguas residuales, se incluyen estrategias de reducción, uso eficiente y conservación del recurso hídrico,
+alineadas con los lineamientos de la Ley de Estrategia Nacional de Desarrollo 2030 (MEPyD, 2012). Los principales supuestos cuantitativos del escenario de la Estrategia se resumen a continuación.
 
 **Medidas y supuestos del Escenario LTS**
 
-**Sector energía**
-  * Reconversión de las plantas a **carbón mineral** y **fuel-oil** hacia
-    **gas natural**.
-  * **Matriz de generación 2050**  
-    30 % eólica en tierra, 7 % eólica marina, 25 % solar a gran escala,
-    15 % solar distribuida, 3 % hidro y 20 % gas natural, con respaldo en
-    baterías a partir de 2025.
-  * Reducción de **pérdidas técnicas de distribución** al **8 %** en 2050.
-  * **Gestión de la demanda** mediante eficiencia energética en todos los usos
-    finales.
-  * **Electrificación de usos finales**
-
-    * Comercial, industrial y residencial: 5 % (2030), 30 % (2040) y 60 % (2050)
-      respecto al Tendencial.
-    * Agricultura: 5 % (2030), 15 % (2040) y 30 % (2050) respecto al Tendencial.
-
-  * **Disminución del uso de leña** para necesidades térmicas.
-  * **Producción y consumo de hidrógeno** en procesos industriales.
-  * **Coprocesamiento con biomasa** en la producción de clínker:
-    17,5 % (2030) y 50 % (2050).
 
 
+**Reducción de generación de residuos sólidos**
+    * Incremento limitado a menos del 20 % al 2033 (5.8 Mt) y solo un 5 % para 2050 (5.1 Mt).
 
+**Reducción de aguas residuales** 
+    * Disminución del 40 % en el volumen generado en 2050 respecto al escenario tendencial.
 
+**Infraestructura**
+    * Eliminación total de vertederos a cielo abierto al 2033.
+    * Supresión de quemas y disposición en sitios clandestinos.
 
-**Sector transporte**
-  * **Electrificación de la flota**
+**Valorización de residuos sólidos**
+    * 15 % del total valorizado a 2033 (12.5 % inorgánicos, 2.5 % orgánicos).
+    * 25 % valorización a 2050 (20 % inorgánicos, 5 % orgánicos).
 
-    * 2035 – 5 % de motocicletas; 10 % de autos/SUV/taxis/vehículos de carga;
-      30 % de buses.
-    * 2050 – 70 % de autos/SUV/motocicletas/buses; 50 % de vehículos de carga.
+**Co-procesamiento**
+    * 7 % del total nacional de residuos usados para coprocesamiento en 2030.
+    * 15 % en 2050.
 
-  * **Vehículos híbridos**
+**Disposición final regularizada**
+    * El 100 % de los residuos no valorizados termina en sitios regularizados (60 % del total).
 
-    * 2035 – 5 % de autos (gasolina) y 5 % de carga (diésel).
-    * 2050 – 10 % de autos (gasolina) y 5 % de carga (diésel).
+**Recuperación de metano**
+    * 10 % del metano recuperado en rellenos sanitarios para 2030.
 
-  * **Hidrógeno en carga pesada** – 10 % (2035) y 30 % (2050).
-  * **Cambio modal**
-
-    * 2035 – 10 % transporte público, 5 % movilidad activa.
-    * 2050 – 20 % transporte público, 10 % movilidad activa.
-
-  * **Transporte masivo eléctrico en 2050** – 10 % tren eléctrico,
-    10 % teleférico eléctrico y 10 % tren de carga eléctrico.
+    * 20 % para 2050.

@@ -2,13 +2,14 @@
 Metodología
 ====================================
 
-A partir de los insumos del Primer Taller Nacional,se desarrollaron modelos sectoriales para analizar
-trayectorias evolutivas en la economía de la República Dominicana. Este estudio evalúa cuatro sectores principales:
+A partir de los insumos del Primer Taller Nacional, se desarrollaron modelos sectoriales para analizar
+trayectorias evolutivas en la economía de la República Dominicana. Este estudio evalúa los siguientes sectores principales definidos por IPCC:
 
-   (i) Energía y Transporte,
-   (ii) Agricultura, Silvicultura y Cambio de Uso de la Tierra (AFOLU),
-   (iii) Residuos y
-   (iv) Procesos Industriales y Uso de Productos (PIUP).
+- Energía  
+- Procesos industriales y uso de productos (IPPU, por sus siglas en inglés)  
+- Agricultura, silvicultura y otros usos de la tierra (AFOLU, por sus siglas en inglés)  
+- Residuos
+
 
 Además, se consideran temas transversales como turismo, infraestructura y zonas costero-marinas,
 con el fin de explorar sinergias entre mitigación y resiliencia climática. Los modelos están construidos con la herramienta OSeMOSYS (Open Source Energy Modelling System),
@@ -26,5 +27,5 @@ y no energéticas, y generar escenarios que responden a preguntas del tipo “¿
 
 
 
-.. Nota::
-   La metodología sigue los principios de transparencia y reproducibilidad, permitiendo ajustes y mejoras futuras..
+.. note::
+   La metodología sigue los principios de transparencia y reproducibilidad, permitiendo ajustes y mejoras futuras.

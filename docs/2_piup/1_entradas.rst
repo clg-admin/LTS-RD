@@ -2,74 +2,47 @@
 Datos de entrada del modelo
 ===================================
 
-En la **Tabla 2**  se presentan los datos de entrada para el modelo del subsector Energía.En la **Tabla 3** se encuentra la información correspondiente al subsector Transpr¿orte. 
+En la **Tabla 6**  se presentan los datos de entrada para el modelo del secor PIUP.
 
-.. list-table:: **Tabla 2. Supuestos del sector Energía**
-   :widths: 25 50 25
+
+
+.. list-table:: **Tabla 6.** Datos de entrada del sector PIUP
    :header-rows: 1
+   :widths: 25 50 25
+   :class: longtable
 
    * - **Dato/Supuesto**
      - **Detalle**
      - **Fuente**
-   * - Capacidad instalada 2018–2023
-     - Datos de capacidad instalada por tecnología y combustible en el SENI (GW) entre 2018 y 2023
-     - OCDO-SENI, 2023a
-   * - Capacidad por instalar 2024–2032
-     - Planificación nacional por tipo de tecnología y combustible en GW
-     - OCDO-SENI, 2023b; Quirós-Tortós et al., 2023
-   * - Crecimiento de demanda energética
-     - Crecimiento anual por subsector económico: industrial, construcción, agricultura, servicios, comercio, transporte y exportaciones
-     - Banco Central de República Dominicana (2023); ONE (2015)
-   * - Demanda histórica y proyectada
-     - Se utiliza el Balance Energético Nacional y crecimiento asociado al PIB per cápita
-     - SieLAC-OLADE, 2022; Banco Central, 2023; ONE, 2015
-   * - Supuesto de emisiones
-     - Las emisiones se estiman como multiplicación entre consumo de combustible y factor de emisión
-     - IPCC, 2006
-   * - Factores de emisión
-     - Tablas 2.2, 2.3 y 2.4 del Volumen 2, Capítulo 2 de las directrices del IPCC para combustión estacionaria
-     - IPCC, 2006
-   * - Precios de combustibles (2018–2050)
-     - Precios por combustible en MUSD/PJ (Biomasa, GN, Fuel Oil, etc.)
-     - OCDO-SENI, 2023c
-   * - Costos variables en refinerías
-     - MUSD/PJ por operación y mantenimiento según tipo de combustible refinado
-     - OCDO-SENI, 2023c
-   * - Costos de inversión por tecnología
-     - $/kW para nuevos proyectos eléctricos por combustible y tecnología (e.g. solar, eólica, hidro, etc.)
-     - OCDO-SENI, 2023c
-   * - Costos fijos O&M por tecnología
-     - $/kW para O&M de proyectos por tipo de combustible y tecnología
-     - OCDO-SENI, 2023c
-   * - Costos variables no combustibles
-     - MUSD/PJ para O&M sin incluir costo de combustible, por tipo
-     - OCDO-SENI, 2023c
-   * - Externalidades por salud local
-     - Costo en $/GJ por contaminación local en plantas de generación eléctrica
-     - IMF, 2021
 
-.. list-table:: **Tabla 3. Supuestos del sector Transporte**
-   :widths: 25 50 25
-   :header-rows: 1
+   * - Producción nacional de Clinker
+     - Emisiones por descarbonatación del carbonato de calcio en hornos cementeros. La producción está relacionada con la demanda nacional de cemento. Se considera también la importación de Clinker y el factor de Clinker en el cemento.
+     - Inventario GEI Cemento 2010–2017 (GIZ, 2018a); Informes ADOCEM 2010–2022 (ADOCEM, 2022); Hoja de Ruta del Cemento (FICEM, 2020)
 
-   * - **Dato/Supuesto**
-     - **Detalle**
-     - **Fuente**
-   * - Cantidad de vehículos por tipo de combustible en 2019
-     - Estimaciones por tipo de vehículo: Buses públicos, Buses de turismo, Minibuses (guaguas), Taxis (conchos), Automóviles (sedan), SUV, Motocicletas, Carga liviana y Carga pesada. Combustibles considerados: Gas Natural, Electricidad, GLP, Gasolina, Diésel.
-     - World Bank Group (2023); Boletín Estadístico del Parque Vehicular (2022)
-   * - Proyección de tecnologías basadas en gasolina, diésel y GLP
-     - La cantidad de vehículos de gasolina, diésel y GLP disminuye progresivamente hasta llegar a cero en el año 2050.
-     - Supuesto del estudio basado en la estrategia de descarbonización
-   * - Crecimiento anual del sector transporte
-     - Proyección de crecimiento sectorial: 5.29% en 2019, 3.12% en 2025, 2.62% en 2030, 1.83% en 2040, y 1.09% en 2050.
-     - Banco Central de República Dominicana (2023); ONE (2015)
-   * - Elasticidad utilizada para proyectar la demanda de pasajeros y carga
-     - Elasticidades obtenidas al dividir el crecimiento sectorial entre el crecimiento poblacional: 1.36 en 2019, 0.89 en 2025, 0.75 en 2030, 0.52 en 2040, y 0.31 en 2050.
-     - Banco Central de República Dominicana (2023); ONE (2015)
-   * - Costos del sector transporte
-     - Costos capitales de inversión y costos de operación fijos. Costos de mantenimiento de vehículos de cero emisiones estimados en un tercio del de sus equivalentes de combustión. El costo de las baterías está incluido en el precio del vehículo.
-     - Godínez-Zamora et al. (2020); Ministerio de Hacienda de Costa Rica
-   * - Emisiones del sector transporte
-     - Estimación de emisiones por consumo proyectado de combustibles multiplicado por factores de emisión. Factores tomados de la Tabla 3.2.1 del Volumen 2, Capítulo 3 de las Directrices IPCC 2006.
-     - Grupo Intergubernamental de Expertos sobre el Cambio Climático (2006)
+   * - Factor de emisión – Clinker
+     - 0.5203 tCO₂ por tonelada de Clinker producido.
+     - GIZ (2018a)
+
+   * - Producción de Cal
+     - Emisiones derivadas del calentamiento de materias primas. Proceso similar al del Clinker.
+     - Inventario GEI Cemento 2010–2017, Addendum ZACK (GIZ, 2018a)
+
+   * - Factor de emisión – Cal
+     - 0.75 tCO₂ por tonelada de Cal producida.
+     - GIZ (2018a)
+
+   * - Producción de Ferroníquel
+     - Emisiones derivadas de la transformación térmica de materias primas para obtener ferroníquel. Actividad menor que la del Clinker o la Cal.
+     - Inventario GEI Cemento 2010–2017, Addendum ZACK (GIZ, 2018a)
+
+   * - Factor de emisión – Ferroníquel
+     - 1.36 tCO₂ por tonelada de ferroníquel producido.
+     - GIZ (2018a)
+
+   * - Uso de refrigerantes HFC
+     - Se consideran los gases HFC-134a, R404A y R410A. Se asume que el consumo es igual a la importación. No se incluye estimación de bancos, fugas ni vida útil de equipos.
+     - Estudio sobre el Consumo de HFC en RD (PNUD, 2016)
+
+   * - Potencial de Calentamiento Global (PCG) de HFCs
+     - HFC-134a = 1,430; R404A = 3,922; R410A = 2,088
+     - CCAC (2019)

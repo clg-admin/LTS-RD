@@ -1,31 +1,34 @@
-====================================
-Github Navigation
-====================================
+====================
+Navegación en GitHub
+====================
 
-GitHub is a version control platform where projects are organized in repositories. Below, we show you how to efficiently explore a repository.
-
-
-**Structure of a Repository**
-
-A GitHub repository generally has the following structure:
-
-- README.md: Welcome file with a description of the project.
-- docs/: Folder containing the project documentation (including .rst files).
-- Energy/: Source code for the Electricity and Buildings model.
-- Transport/: Source code for the Transport model.
-- Industry/: Source code for the Industry model.
-- Waste/: Source code for the Waste model.
-- AFOLU/: Source code for the 8.	Land-use change, forestry and agriculture model.
-- KLEM/: Source code for the Adaptation model.
-- requirements.txt: Project dependencies (Python libraries needed to run the simulation).
--.github/: Configurations for CI/CD, issue templates, and PRs (only available on the PC when the repository is cloned).
+GitHub es una plataforma de control de versiones donde los proyectos se organizan en repositorios. A continuación, te mostramos cómo explorar un repositorio de manera eficiente.
 
 
-**How to Explore Files in GitHub**
+**Estructura de un Repositorio**
 
-- Use the Search Bar – On the repository page, use the search bar to find specific files or directories.
+Un repositorio de GitHub generalmente tiene la siguiente estructura:
 
-- View Change History – Each file has a change history accessible from the "History" tab or the # Commits option, under the green <> Code button.
+- **README.md**: Archivo de bienvenida con una descripción del proyecto.
+- **docs/**: Carpeta con la documentación del proyecto (incluir archivos `.rst`).
+- **Agriculture/**: Código fuente del modelo de `AFOLU`.
+- **Energy/**: Código fuente del modelo de `Energía y Transporte`.
+- **IPPU/**: Código fuente del modelo de Procesos Industriales y Uso de Productos `IPPU`.
+- **Waste/**: Código fuente del modelo de `Residuos`.
+- **requirements.txt**: Dependencias del proyecto (para poder ejecutar la simulación, son librerías de Python).
+- **.github/**: Configuraciones para CI/CD, plantillas de issues y PRs (únicamente disponible en la PC cuando se clona el repositorio).
 
-- Download the Code – You can download the repository as a .zip file by left-clicking the green <> Code button and then left-clicking the Download ZIP option. You can also clone it using the following command via Git Bash:
-git clone https://github.com/seas-yoselyn/JAM-LTS.git
+
+**Cómo Explorar Archivos en GitHub**
+
+
+1. **Usar la Barra de Búsqueda**
+   - En la página del repositorio, usa la barra de búsqueda para encontrar archivos o directorios específicos.
+
+2. **Ver el Historial de Cambios**
+   - Cada archivo tiene un historial de cambios accesible desde la pestaña "History" o en la opción `# Commits`, bajo el botón verde ``<> Code``.
+
+3. **Descargar el Código**
+   - Puedes descargar el repositorio en formato `.zip` presionando clic izquierdo el botón verde ``<> Code`` y después clic izquierdo en la opción ``Download ZIP``.
+   También se puede clonar con el siguiente comando por medio de `Git Bash`:
+   git clone https://github.com/clg-admin/LTS-RD.git

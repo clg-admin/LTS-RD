@@ -2,9 +2,10 @@
 Introduction
 ====================================
 
-Esta documentación describe el modelo OSeMOSYS-RD, desarrollado en colaboración con el Programa de las
-Naciones Unidas para el Desarrollo (PNUD) y la Organización de las Naciones Unidas para la Alimentación y
-la Agricultura (FAO) para evaluar las emisiones de gases de efecto invernadero (GEI) en República Dominicana hacia el año 2050.
+Esta documentación describe el modelo OSeMOSYS-RD, desarrollado bajo la coordinación del Ministerio de Economía, Planificación y
+Desarrollo (MEPyD) de la República Dominicana, con el apoyo financiero del Grupo del Banco Mundial. El modelo fue utilizado como herramienta
+analítica clave para evaluar escenarios de emisiones de gases de efecto invernadero (GEI) hacia el año 2050, en el marco del proceso de formulación
+de la Estrategia de Largo Plazo de Desarrollo Bajo en Carbono y Resiliente (LTS) del país. 
 
 El modelo permite:
 

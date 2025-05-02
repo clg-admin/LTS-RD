@@ -1,5 +1,5 @@
 ===================================================
-Energía y Transporte
+Procesos Industriales y Uso de Productos (PIUP)
 ===================================================
 
 .. toctree::
