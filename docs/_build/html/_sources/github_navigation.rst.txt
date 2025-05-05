@@ -11,10 +11,9 @@ Un repositorio de GitHub generalmente tiene la siguiente estructura:
 
 - **README.md**: Archivo de bienvenida con una descripción del proyecto.
 - **docs/**: Carpeta con la documentación del proyecto (incluir archivos `.rst`).
-- **Agriculture/**: Código fuente del modelo de `AFOLU`.
+- **AFOLU/**: Código fuente del modelo de `AFOLU`.
 - **Energy/**: Código fuente del modelo de `Energía y Transporte`.
-- **IPPU/**: Código fuente del modelo de Procesos Industriales y Uso de Productos `IPPU`.
-- **Waste/**: Código fuente del modelo de `Residuos`.
+- **IPPU_Waste/**: Código fuente del modelo de Procesos Industriales y Uso de Productos `IPPU` y del modelo de `Residuos`.
 - **requirements.txt**: Dependencias del proyecto (para poder ejecutar la simulación, son librerías de Python).
 - **.github/**: Configuraciones para CI/CD, plantillas de issues y PRs (únicamente disponible en la PC cuando se clona el repositorio).
 

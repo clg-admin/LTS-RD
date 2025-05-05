@@ -29,4 +29,3 @@ La documentación está organizada en los siguientes apartados:
 10. [Guía de Navegación GitHub](https://github.com/clg-admin/ECU_NDC/blob/main/docs/guia.rst)
 11. [Licencia](https://github.com/clg-admin/ECU_NDC/blob/main/docs/license.rst)
 12. [Autores](https://github.com/clg-admin/ECU_NDC/blob/main/docs/authors.rst)
----"# LTS-RD" 
