@@ -2,8 +2,11 @@
 Escenarios
 ---------------------
 
+Para el sector Residuos se definieron los escenarios *Tendencial* y *Estrategia (o LTS)*, los cuales describen el comportamiento del sector según
+el crecimiento históricamente el producto interno bruto per cápita del sector servicios, así como análisis de las aguas residuales industriales, las cuales se definen bajo 
+el mismo comportamiento que producto interno bruto per cápita del sector industrias.
 
-El escenario de la Estrategia contempla medidas a mediano y largo plazo para transformar la gestión de residuos sólidos y aguas residuales
+El escenario Estrategia además, contempla medidas a mediano y largo plazo para transformar la gestión de residuos sólidos y aguas residuales
 en República Dominicana. A 2033, se consideran las principales acciones propuestas en el proceso de formulación del Plan Nacional de Gestión Integral
 de Residuos Sólidos, que incluyen reducción en la generación, valorización de residuos y cierre de vertederos a cielo abierto. Para 2050, estas medidas
 se fortalecen, incorporando la expansión del coprocesamiento y la recuperación de metano en rellenos sanitarios existentes y planificados (GIZ, 2018b).
@@ -12,7 +15,6 @@ En el caso de las aguas residuales, se incluyen estrategias de reducción, uso e
 alineadas con los lineamientos de la Ley de Estrategia Nacional de Desarrollo 2030 (MEPyD, 2012). Los principales supuestos cuantitativos del escenario de la Estrategia se resumen a continuación.
 
 **Medidas y supuestos del Escenario LTS**
-
 
 
 **Reducción de generación de residuos sólidos**

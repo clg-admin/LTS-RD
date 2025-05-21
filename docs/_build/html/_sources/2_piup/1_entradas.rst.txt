@@ -4,45 +4,42 @@ Datos de entrada del modelo
 
 En la **Tabla 6**  se presentan los datos de entrada para el modelo del secor PIUP.
 
-
-
 .. list-table:: **Tabla 6.** Datos de entrada del sector PIUP
-   :header-rows: 1
    :widths: 25 50 25
-   :class: longtable
+   :header-rows: 1
 
    * - **Dato/Supuesto**
      - **Detalle**
      - **Fuente**
 
-   * - Producción nacional de Clinker
-     - Emisiones por descarbonatación del carbonato de calcio en hornos cementeros. La producción está relacionada con la demanda nacional de cemento. Se considera también la importación de Clinker y el factor de Clinker en el cemento.
+   * - Producción nacional de clinker
+     - Volumen anual vinculado a la demanda doméstica de cemento; incluye importaciones de clinker y el factor de clinker en el cemento. Unidades: millones de toneladas por año (Mt a⁻¹).
      - Inventario GEI Cemento 2010–2017 (GIZ, 2018a); Informes ADOCEM 2010–2022 (ADOCEM, 2022); Hoja de Ruta del Cemento (FICEM, 2020)
 
-   * - Factor de emisión – Clinker
-     - 0.5203 tCO₂ por tonelada de Clinker producido.
+   * - Factor de emisión de clinker
+     - 0.5203 t CO₂ por tonelada de clinker producido (t CO₂ t⁻¹).
      - GIZ (2018a)
 
-   * - Producción de Cal
-     - Emisiones derivadas del calentamiento de materias primas. Proceso similar al del Clinker.
-     - Inventario GEI Cemento 2010–2017, Addendum ZACK (GIZ, 2018a)
+   * - Producción de cal
+     - Volumen anual con emisiones derivadas del calentamiento de la materia prima, proceso análogo al del clinker. Unidades: Mt a⁻¹.
+     - Inventario GEI Cemento 2010–2017; Addendum ZACK (GIZ, 2018a)
 
-   * - Factor de emisión – Cal
-     - 0.75 tCO₂ por tonelada de Cal producida.
+   * - Factor de emisión de cal
+     - 0.75 t CO₂ t⁻¹ de cal producida.
      - GIZ (2018a)
 
-   * - Producción de Ferroníquel
-     - Emisiones derivadas de la transformación térmica de materias primas para obtener ferroníquel. Actividad menor que la del Clinker o la Cal.
-     - Inventario GEI Cemento 2010–2017, Addendum ZACK (GIZ, 2018a)
+   * - Producción de ferroníquel
+     - Volumen anual derivado de la transformación térmica de materias primas para obtener ferroníquel. Unidades: kilotoneladas por año (kt a⁻¹).
+     - Inventario GEI Cemento 2010–2017; Addendum ZACK (GIZ, 2018a)
 
-   * - Factor de emisión – Ferroníquel
-     - 1.36 tCO₂ por tonelada de ferroníquel producido.
+   * - Factor de emisión de ferroníquel
+     - 1.36 t CO₂ t⁻¹ de ferroníquel producido.
      - GIZ (2018a)
 
    * - Uso de refrigerantes HFC
-     - Se consideran los gases HFC-134a, R404A y R410A. Se asume que el consumo es igual a la importación. No se incluye estimación de bancos, fugas ni vida útil de equipos.
-     - Estudio sobre el Consumo de HFC en RD (PNUD, 2016)
+     - Consumo anual de HFC-134a, R404A y R410A, asumido igual a las importaciones; no se estiman bancos ni fugas. Unidades: toneladas de refrigerante por año (t a⁻¹).
+     - PNUD (2016)
 
-   * - Potencial de Calentamiento Global (PCG) de HFCs
-     - HFC-134a = 1,430; R404A = 3,922; R410A = 2,088
+   * - Potencial de calentamiento global de HFCs
+     - Índice GWP a 100 años: HFC-134a = 1 430; R404A = 3 922; R410A = 2 088 (adimensional).
      - CCAC (2019)

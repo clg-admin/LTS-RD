@@ -4,52 +4,47 @@ Datos de entrada del modelo
 
 En la **Tabla 8**  se presentan los datos de entrada para el modelo del secor PIUP.
 
-
 .. list-table:: **Tabla 8.** Datos de entrada del sector Residuos
-   :header-rows: 1
    :widths: 30 50 20
-   :class: longtable
+   :header-rows: 1
 
    * - **Dato/Supuesto**
      - **Detalle**
      - **Fuente**
 
    * - Línea base de emisiones
-     - Construida a partir del último INGEI (2015) incluido en el BUR. Se complementa con otras fuentes nacionales de información estadística.
+     - Construida con el último INGEI (2015) del BUR y fuentes estadísticas nacionales. Sin unidades.
      - MMARN (2020)
 
-   * - Perfil de disposición final
-     - 90 % de residuos sólidos recolectados por ayuntamientos o empresas privadas; 10 % terminan quemados o en sitios clandestinos.
+   * - Disposición final de residuos
+     - % de residuos recolectados por ayuntamientos o empresas privadas y % de residuos quemados o en sitios clandestinos.
      - ONE (2022b)
 
-   * - Participación de reciclaje
-     - Se estima que el reciclaje representa el 6 % del total de residuos sólidos.
+   * - Reciclaje de residuos
+     - Porcentaje de residuos reciclados del total de residuos sólidos.
      - GIZ (2018b)
 
-   * - Participación de coprocesamiento
-     - No se dispone de datos suficientes para estimar una participación superior a 0 %.
-     - GIZ (2018b)
+   * - Coprocesamiento de residuos
+     - No existen datos para estimar una participación.
 
-   * - Participación de compostaje
-     - No hay información suficiente para estimar el compostaje en el país.
-     - GIZ (2017)
+   * - Compostaje de residuos
+     - Sin información suficiente para estimar compostaje.
 
    * - Distribución de residuos recolectados
-     - Del 84 % recolectado: 30 % va a rellenos sanitarios y 54 % a botaderos a cielo abierto.
-     - BID (2024)
+     - Porcentaje de residuos recolectados destinados a rellenos sanitarios y botaderos a cielo abierto.
 
-   * - Información base sobre aguas residuales
-     - Las aguas residuales pueden ser tratadas o vertidas sin tratamiento. La base de datos proviene del BUR.
+   * - Aguas residuales
+     - Registros del BUR indican volúmenes tratados o vertidos sin tratamiento. Unidades: millones de metros cúbicos por año (Mm³ a⁻¹).
      - MMARN (2020)
 
-   * - Costos de planificación y soporte institucional
-     - Se añade un 5 % a los costos totales para fortalecer capacidades de planificación, supervisión, financiamiento, información, educación y participación ciudadana.
-     - Correal, Faleiro, et al. (2023); Correal & Rihm (2022)
+   * - Costos de planificación
+     - Costos totales para fortalecer planificación, supervisión y participación (MUSD)
+     - Correal, Faleiro et al. (2023); Correal & Rihm (2022)
 
    * - Externalidades negativas
-     - Salud pública (16–36 USD/cápita/año), contaminación de aguas (4–20 USD/cápita/año), pérdida por turismo (26–50 USD/cápita/año).
-     - Correal, Rihm, et al. (2023)
+     - Externalidades por: salud pública, contaminación de aguas, turismo.
+     - Correal, Rihm et al. (2023)
 
    * - Externalidades positivas
-     - Venta de materiales reciclados (56 USD/t) y compostaje (58.44 USD/t).
+     - Ingresos: venta de materiales y compost, USD por tonelada.
      - BID (2023)

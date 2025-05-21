@@ -1,7 +1,7 @@
 ---------------------
 Escenarios
 ---------------------
-El presente apartado sintetiza los supuestos que sustentan los dos escenarios evaluados para el sector **AFOLU**: el *Escenario Tendencial* y la *Estrategia de Desarrollo Baja en Carbono y Resiliente*. 
+El presente apartado sintetiza los supuestos que sustentan los dos escenarios evaluados para el sector **AFOLU**: el *Escenario Tendencial* y el *Escenario LTS (o Estrategia)*. 
 En ambos casos se abordan los tres subsectores clave — **UTCUTS, Agricultura y Ganadería** — describiendo las dinámicas de cambio de cobertura, productividad y emisiones, así como
 las principales medidas de mitigación consideradas. La comparación permite apreciar el paso de una trayectoria de continuidad histórica hacia una senda alineada con la descarbonizacila resiliencia 
 climática al horizonte 2050.
@@ -27,7 +27,7 @@ climática al horizonte 2050.
 
 
 
-**Escenario Estrategia de Desarrollo Baja en Carbono y Resiliente**
+**Escenario Estrategia**
 
 * **Subsector UTCUTS**
 
@@ -37,7 +37,7 @@ climática al horizonte 2050.
     - 0,035 Mha en 2031-2040 
     - 0,040 Mha en 2041-2050
 
-* **Subsector Agricultura** – Acciones de mitigación
+* **Subsector Agricultura**
 
   * Tecnificación de sistemas de riego.  
   * Uso eficiente de fertilizantes.  
@@ -45,7 +45,7 @@ climática al horizonte 2050.
   * Manejo integrado de plagas.  
 
 
-* **Subsector Ganadería** – Acciones de mitigación
+* **Subsector Ganadería**
 
   * Rotación de pasturas.  
   * Manejo integrado del ganado.  

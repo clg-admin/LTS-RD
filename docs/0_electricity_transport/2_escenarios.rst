@@ -6,9 +6,9 @@ Escenarios
 Para describir la evolución de largo plazo del sistema **energético** y del
 **transporte** se plantean dos proyecciones contrastantes:
 
-* **Escenario Tendencial** – prolonga las pautas históricas y los compromisos ya
+* **Escenario Tendencial**: prolonga las pautas históricas y los compromisos ya
   vigentes.
-* **Escenario LTS (o Estrategia)** – introduce transformaciones profundas
+* **Escenario LTS (o Estrategia)**: introduce transformaciones profundas
   orientadas a la descarbonización y la modernización tecnológica con horizonte
   2050.
 

@@ -1,5 +1,5 @@
 ====================================
-Introduction
+Introducción
 ====================================
 
 Esta documentación describe el modelo OSeMOSYS-RD, desarrollado bajo la coordinación del Ministerio de Economía, Planificación y

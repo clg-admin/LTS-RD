@@ -18,4 +18,4 @@ el sector requiere incurrir en costos cada vez más en el corto, mediano y largo
    :width: 100%
    :align: center
 
-   **Figura 12:** Costos y beneficios del sector PIUP.
+   **Figura 12:** Costos del sector PIUP.
