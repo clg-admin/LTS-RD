@@ -13,41 +13,41 @@ En la **Tabla 8**  se presentan los datos de entrada para el modelo del secor PI
      - **Fuente**
 
    * - Línea base de emisiones
-     - Construida con el último INGEI (2015) del BUR y fuentes estadísticas nacionales. Sin unidades.
+     - Construida con el último INGEI (2015) del BUR y otras fuentes estadísticas nacionales.
      - MMARN (2020)
 
    * - Disposición final de residuos
-     - 90 % de residuos recolectados por ayuntamientos o empresas privadas y 10 % quemados o en sitios clandestinos. Unidades: porcentaje del total generado (%).
+     - Porcentaje de residuos recolectados por ayuntamientos o empresas privadas y porcentaje quemado o en sitios clandestinos.
      - ONE (2022b)
 
    * - Reciclaje de residuos
-     - El reciclaje corresponde al 6 % del total de residuos sólidos. Unidades: % del total.
+     - Porcentaje de residuos reciclados respecto al total de residuos sólidos.
      - GIZ (2018b)
 
    * - Coprocesamiento de residuos
-     - No existen datos para estimar una participación distinta de 0 %. Unidades: % del total.
-     - GIZ (2018b)
+     - No existen datos suficientes para estimar participación de coprocesamiento.
+     - — 
 
    * - Compostaje de residuos
-     - Sin información suficiente para estimar compostaje. Unidades: % del total.
-     - GIZ (2017)
+     - Sin información suficiente para estimar compostaje.
+     - — 
 
    * - Distribución de residuos recolectados
-     - Del 84 % recolectado: 30 % a rellenos sanitarios y 54 % a botaderos a cielo abierto. Unidades: % del total recolectado.
+     - Porcentaje del flujo recolectado destinado a rellenos sanitarios y a botaderos a cielo abierto.
      - BID (2024)
 
    * - Aguas residuales
-     - Registros del BUR indican volúmenes tratados o vertidos sin tratamiento. Unidades: millones de metros cúbicos por año (Mm³ a⁻¹).
+     - Volúmenes tratados o vertidos sin tratamiento según BUR. Unidades: millones de m³ a⁻¹.
      - MMARN (2020)
 
    * - Costos de planificación
-     - Se agrega un 5 % a los costos totales para fortalecer planificación, supervisión y participación. Unidades: % sobre CAPEX + OPEX.
+     - Costos totales para fortalecer planificación, supervisión y participación (MUSD).
      - Correal, Faleiro et al. (2023); Correal & Rihm (2022)
 
    * - Externalidades negativas
-     - Costos: salud pública 16–36 USD cápita⁻¹ a⁻¹, contaminación de aguas 4–20 USD cápita⁻¹ a⁻¹, turismo 26–50 USD cápita⁻¹ a⁻¹. Unidades: USD por habitante por año.
+     - Costos por salud pública, contaminación de aguas y pérdida de turismo.
      - Correal, Rihm et al. (2023)
 
    * - Externalidades positivas
-     - Ingresos: venta de materiales 56 USD t⁻¹ y compost 58.44 USD t⁻¹. Unidades: USD por tonelada.
+     - Ingresos por venta de materiales reciclados y compost (USD t⁻¹).
      - BID (2023)

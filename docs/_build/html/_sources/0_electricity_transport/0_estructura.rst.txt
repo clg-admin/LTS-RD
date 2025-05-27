@@ -3,7 +3,7 @@ Estructura del Modelo
 ===================================
 
 
-El sector Energía y Transporte se modela de manera integrada para capturar las interacciones entre el consumo de energía y su uso final en el sistema de movilidad como se observa en la **Figura 3**.  Por el lado energético, se
+El sector Energía y Transporte se modela de manera integrada para capturar las interacciones entre el consumo de energía y su uso final en el sistema de movilidad como se observa en la **Figura 5**.  Por el lado energético, se
 analiza la oferta y demanda de fuentes primarias como petróleo crudo, gas natural, carbón mineral, leña, biomasa, electricidad, GLP, gasolinas, kerosene, diésel, fuel oil y coque de petróleo.
 Se consideran las tecnologías de importación, exportación, producción, distribución y transformación de estas fuentes.
 
@@ -18,7 +18,7 @@ Esta estructura permite simular trayectorias futuras y evaluar el impacto de dis
    :width: 100%
    :align: center
 
-   **Figura 3:** Estructura del modelo para los sectores Energía y Transporte
+   **Figura 5:** Estructura del modelo para los sectores Energía y Transporte
 
 
 

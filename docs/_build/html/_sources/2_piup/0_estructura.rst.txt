@@ -6,7 +6,7 @@ Estructura del Modelo
 El componente PIUP (Procesos Industriales y Uso de Productos) incluye procesos industriales que generan emisiones de GEI distintas a la combustión,
 como la producción de clinker en la fabricación de cemento. También abarca el uso de productos con propiedades de GEI, como lubricantes, ceras, solventes
 y gases refrigerantes, que pueden liberarse por fugas o mala disposición de equipos. Este sector no contempla el consumo energético industrial, ya que ese
-aspecto se analiza en otros sectores del modelo multisectorial. La **Figura 10** presenta un resumen de los elementos considerados en la modelación.ficiencia energética
+aspecto se analiza en otros sectores del modelo multisectorial. La **Figura 12** presenta un resumen de los elementos considerados en la modelación.ficiencia energética
 (MJ/km) por tipo de vehículo y datos de kilometraje recorrido.
 
 Esta estructura permite simular trayectorias futuras y evaluar el impacto de distintas políticas de descarbonización.
@@ -17,7 +17,7 @@ Esta estructura permite simular trayectorias futuras y evaluar el impacto de dis
    :width: 100%
    :align: center
 
-   **Figura 10:** Estructura del modelo para el sector PIUP
+   **Figura 12:** Estructura del modelo para el sector PIUP
 
 
 

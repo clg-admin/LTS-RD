@@ -17,7 +17,7 @@ En la **Tabla 6**  se presentan los datos de entrada para el modelo del secor PI
      - Inventario GEI Cemento 2010–2017 (GIZ, 2018a); Informes ADOCEM 2010–2022 (ADOCEM, 2022); Hoja de Ruta del Cemento (FICEM, 2020)
 
    * - Factor de emisión de clinker
-     - 0.5203 t CO₂ por tonelada de clinker producido (t CO₂ t⁻¹).
+     - t CO₂/t de clinker producido
      - GIZ (2018a)
 
    * - Producción de cal
@@ -25,7 +25,7 @@ En la **Tabla 6**  se presentan los datos de entrada para el modelo del secor PI
      - Inventario GEI Cemento 2010–2017; Addendum ZACK (GIZ, 2018a)
 
    * - Factor de emisión de cal
-     - 0.75 t CO₂ t⁻¹ de cal producida.
+     - t CO₂/t de cal producida.
      - GIZ (2018a)
 
    * - Producción de ferroníquel
@@ -33,7 +33,7 @@ En la **Tabla 6**  se presentan los datos de entrada para el modelo del secor PI
      - Inventario GEI Cemento 2010–2017; Addendum ZACK (GIZ, 2018a)
 
    * - Factor de emisión de ferroníquel
-     - 1.36 t CO₂ t⁻¹ de ferroníquel producido.
+     - t CO₂/t de ferroníquel producido.
      - GIZ (2018a)
 
    * - Uso de refrigerantes HFC
@@ -41,5 +41,5 @@ En la **Tabla 6**  se presentan los datos de entrada para el modelo del secor PI
      - PNUD (2016)
 
    * - Potencial de calentamiento global de HFCs
-     - Índice GWP a 100 años: HFC-134a = 1 430; R404A = 3 922; R410A = 2 088 (adimensional).
+     - Índice GWP a 100 años.
      - CCAC (2019)

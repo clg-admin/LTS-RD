@@ -4,7 +4,7 @@ Estructura del Modelo
 
 
 El sector AFOLU abarcar tres aristas importantes que son: agricultura, uso de la tierra, cambio del uso de la tierra y silvicultura. 
-Cada una de estas conlleva distintos procesos y productos que han sido considerados para la modelación un resumen de la estructura de la modelación se muestra en la **Figura 5**.
+Cada una de estas conlleva distintos procesos y productos que han sido considerados para la modelación un resumen de la estructura de la modelación se muestra en la **Figura 8**.
 
 
 .. figure:: ../_static/_images/6_afolu.png
@@ -12,7 +12,7 @@ Cada una de estas conlleva distintos procesos y productos que han sido considera
    :width: 100%
    :align: center
 
-   **Figura 5:** Esquema resumen de los aspectos considerados para el sector AFOLU.
+   **Figura 8:** Esquema resumen de los aspectos considerados para el sector AFOLU.
 
 
 

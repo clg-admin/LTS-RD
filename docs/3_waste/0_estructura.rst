@@ -3,7 +3,7 @@ Estructura del Modelo
 ===================================
 
 
-El sector residuos, en cuanto a la generación de emisiones de GEI, se divide en dos grandes categorías: residuos sólidos y aguas residuales, representadas en la **Figura 13** y **Figura 14** 
+El sector residuos, en cuanto a la generación de emisiones de GEI, se divide en dos grandes categorías: residuos sólidos y aguas residuales, representadas en la **Figura 15** y **Figura 16** 
 respectivamente. En la primera categoría, las emisiones se originan principalmente por la descomposición de materia orgánica en sitios de disposición final o
 durante tratamientos específicos. Para capturar no solo las emisiones sino también las inversiones, operaciones y externalidades asociadas, el modelo del sector residuos
 sólidos se estructura en varias etapas: generación, separación, recolección, y disposición final o tratamiento.
@@ -16,14 +16,14 @@ Esta estructura permite simular trayectorias futuras y evaluar el impacto de dis
    :width: 100%
    :align: center
 
-   **Figura 13:** Esquema resumen de los aspectos considerados para el sector residuos, del tipo sólidos.
+   **Figura 15:** Esquema resumen de los aspectos considerados para el sector residuos, del tipo sólidos.
 
 .. figure:: ../_static/_images/14_wasteliquid.png
    :alt: Models used on the cost and benefits analysis
    :width: 100%
    :align: center
 
-   **Figura 14:** Esquema resumen de los aspectos considerados para el sector residuos, del tipo líquidos.
+   **Figura 16:** Esquema resumen de los aspectos considerados para el sector residuos, del tipo líquidos.
 
 
 

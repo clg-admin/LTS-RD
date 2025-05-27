@@ -8,7 +8,7 @@ En primer lugar, es importante tener en cuenta el flujo de trabajo que se muestr
    :align: center
    :alt: Figura 1 Flujo de trabajo del modelo OSeMOSYS-ECU
 
-**Figura 1: Flujo de trabajo del modelo OSeMOSYS-ECU**
+**Figura 19: Flujo de trabajo del modelo OSeMOSYS-ECU**
 
 Crear la estructura del modelo (A1)
 -----------------------------------

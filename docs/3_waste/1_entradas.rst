@@ -13,38 +13,41 @@ En la **Tabla 8**  se presentan los datos de entrada para el modelo del secor PI
      - **Fuente**
 
    * - Línea base de emisiones
-     - Construida con el último INGEI (2015) del BUR y fuentes estadísticas nacionales. Sin unidades.
+     - Construida con el último INGEI (2015) del BUR y otras fuentes estadísticas nacionales.
      - MMARN (2020)
 
    * - Disposición final de residuos
-     - % de residuos recolectados por ayuntamientos o empresas privadas y % de residuos quemados o en sitios clandestinos.
+     - Porcentaje de residuos recolectados por ayuntamientos o empresas privadas y porcentaje quemado o en sitios clandestinos.
      - ONE (2022b)
 
    * - Reciclaje de residuos
-     - Porcentaje de residuos reciclados del total de residuos sólidos.
+     - Porcentaje de residuos reciclados respecto al total de residuos sólidos.
      - GIZ (2018b)
 
    * - Coprocesamiento de residuos
-     - No existen datos para estimar una participación.
+     - No existen datos suficientes para estimar participación de coprocesamiento.
+     - — 
 
    * - Compostaje de residuos
      - Sin información suficiente para estimar compostaje.
+     - — 
 
    * - Distribución de residuos recolectados
-     - Porcentaje de residuos recolectados destinados a rellenos sanitarios y botaderos a cielo abierto.
+     - Porcentaje del flujo recolectado destinado a rellenos sanitarios y a botaderos a cielo abierto.
+     - BID (2024)
 
    * - Aguas residuales
-     - Registros del BUR indican volúmenes tratados o vertidos sin tratamiento. Unidades: millones de metros cúbicos por año (Mm³ a⁻¹).
+     - Volúmenes tratados o vertidos sin tratamiento según BUR. Unidades: millones de m³ a⁻¹.
      - MMARN (2020)
 
    * - Costos de planificación
-     - Costos totales para fortalecer planificación, supervisión y participación (MUSD)
+     - Costos totales para fortalecer planificación, supervisión y participación (MUSD).
      - Correal, Faleiro et al. (2023); Correal & Rihm (2022)
 
    * - Externalidades negativas
-     - Externalidades por: salud pública, contaminación de aguas, turismo.
+     - Costos por salud pública, contaminación de aguas y pérdida de turismo.
      - Correal, Rihm et al. (2023)
 
    * - Externalidades positivas
-     - Ingresos: venta de materiales y compost, USD por tonelada.
+     - Ingresos por venta de materiales reciclados y compost (USD t⁻¹).
      - BID (2023)
